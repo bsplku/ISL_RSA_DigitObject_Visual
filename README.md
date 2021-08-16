@@ -18,24 +18,32 @@ The ‘Sample_Data.zip’ file includes:
 
 ## Running code:
 - Run the code in order following the comments in the notebook.
+
   - 01_Training and validation of the CNN model for digit and object recognition.ipynb
     - Training and validation of the CNN model for digit and object recognition using sample data.
+    
   - 02-1_Activation Maximization.ipynb
     - Trained CNN model visualization using activation maximization method [5].
+    
   - 02-2_t-SNE of CNN.ipynb
     - t-SNE embeddings [6] of trained CNN model visualization.
+    
   - 03_MVPA_Neural_RDMs.ipynb
     - Obtain searchlight neural RDM using sample data.
+    
   - 04_RSA_From_CNN_Perspective.ipynb
     - Apply PCA to CNN features for sample data.
     - Obtain CNN layer RDM.
     - RSA between neural RDM obtained from '03_MVPA_Neural_RDMs.ipynb' and CNN layer RDM.
     - Maximally similar layer assignment.
+
   - 05_RSA_From_Human_Perspective.ipynb
     - Create human categorical perception codes.
     - RSA between neural RDM obtained from '03_MVPA_Neural_RDMs.ipynb' and hypothetical codes.
+    
   - 06-1_Cosine_CNN_Code.ipynb
     - Cosine similarity between CNN layer RDM and human categorical perception codes.
+    
   - 06-2_RSA_CNN_Code_Neural.ipynb
     - RSA between CNN layer RDM and neural RDM in ROIs found from human categorical perception codes.
     
