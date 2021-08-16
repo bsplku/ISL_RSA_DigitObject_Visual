@@ -26,7 +26,7 @@ The ‘Sample_Data.zip’ file includes:
     - Trained CNN model visualization using activation maximization method [5].
     
   - 02-2_t-SNE of CNN.ipynb
-    - t-SNE embeddings [6] of trained CNN model visualization.
+    - t-SNE embeddings [6] of trained CNN model visualization using sample data.
     
   - 03_MVPA_Neural_RDMs.ipynb
     - Obtain searchlight neural RDM using sample data.
