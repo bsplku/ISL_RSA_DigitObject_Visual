@@ -8,7 +8,7 @@ Please download the sample data from this link:
 
 The ‘Sample_Data.zip’ file includes:
 - vgg16_weights.txt 
-  - Pretrained weights of VGG-16 [1] for ImageNet 1000 class classification provided by Keras [2]
+  - Pretrained weights of VGG-16 [1] for ImageNet 1000-class classification provided by Keras [2]
 - Train_Data.npz / Val_Data.npz 
   - 10 sample images per category [3, 4] for training/validation of the CNN.
 - Sample_fMRI_data.npz
