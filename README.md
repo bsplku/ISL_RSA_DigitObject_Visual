@@ -28,6 +28,8 @@ The ‘Sample_Data.zip’ file includes:
   - 02-2_t-SNE of CNN.ipynb
     - t-SNE embeddings [6] of trained CNN model visualization using sample data.
     
+ ![Github_t-SNE](https://user-images.githubusercontent.com/39120886/129598375-248e10fe-54ee-48cb-9597-130b6536eaf7.png)
+
   - 03_MVPA_Neural_RDMs.ipynb
     - Obtain searchlight neural RDM using sample data.
     
