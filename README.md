@@ -20,13 +20,13 @@ The ‘Sample_Data.zip’ file includes:
 - Run the code in order following the comments in the notebook.
 
   - 01_Training and validation of the CNN model for digit and object recognition.ipynb
-    - Training and validation of the CNN model for digit and object recognition using sample data with Tensorflow library.
+    - Training and validation of the CNN model for digit and object recognition using sample data with Tensorflow.
     
   - 02-1_Activation Maximization.ipynb
-    - Trained CNN model visualization using activation maximization method [5] with Tensorflow library.
+    - Trained CNN model visualization using activation maximization method [5] with Tensorflow.
     
   - 02-2_t-SNE of CNN.ipynb
-    - t-SNE embeddings [6] of trained CNN model visualization using sample data with Tensorflow library.
+    - t-SNE embeddings [6] of trained CNN model visualization using sample data with Tensorflow.
       ![Github_t-SNE](https://user-images.githubusercontent.com/39120886/129602384-984b3553-d409-434a-9bb8-a0a01fb57e65.png)
 
   - 03_MVPA_Neural_RDMs.ipynb
