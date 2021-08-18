@@ -26,11 +26,11 @@ The ‘Sample_Data.zip’ file includes:
     - Trained CNN model visualization using activation maximization method [5] with Tensorflow.
     
   - 02-2_t-SNE of CNN.ipynb
-    - t-SNE embeddings [6] of trained CNN model visualization using sample data with Tensorflow.
+    - Obtain t-SNE embeddings [6] of trained CNN model visualization using sample data with Tensorflow.
       ![Github_t-SNE](https://user-images.githubusercontent.com/39120886/129602384-984b3553-d409-434a-9bb8-a0a01fb57e65.png)
 
   - 03_MVPA_Neural_RDMs.ipynb
-    - Obtain searchlight neural RDM using sample data.
+    - Obtain searchlight neural RDMs using sample data.
     
   - 04_RSA_From_CNN_Perspective.ipynb
     - Apply PCA to CNN features for sample data.
