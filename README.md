@@ -6,7 +6,7 @@ Please download the sample data from this link:
 - [Sample_Data.zip](http://bspl.korea.ac.kr/Research_data/digitobject/Sample_data.zip)
   - Here, we provide sample data. However, we plan to release the data in the future.
 
-The ‘Sample_Data.zip’ file includes:
+The **‘Sample_Data.zip’** file includes:
 - vgg16_weights.txt 
   - Pretrained weights of VGG-16 [1] for ImageNet 1000-class classification provided by Keras [2]
 - Train_Data.npz / Val_Data.npz 
