@@ -6,7 +6,7 @@ Neural representations of the perception of handwritten digits and visual object
 
 ## Sample data:
 Please download the sample data from this link:
-- [Sample_Data.zip](http://bspl.korea.ac.kr/Research_data/digitobject/Sample_data.zip)
+- [Sample_Data.zip](http://bspl.korea.ac.kr/Research_data/digitobject/Sample_Data.zip)
   - Here, we provide sample data. However, we plan to release the data in the future.
 
 The **‘Sample_Data.zip’** file includes:
