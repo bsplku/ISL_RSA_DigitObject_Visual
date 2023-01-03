@@ -1,6 +1,9 @@
 # ISL_RSA_DigitObject_Visual
 * These are the Python codes for our representationsl similarity analysis (RSA) for handwritten digits and naturalistic objects between human and CNN.
 
+Please cite this work as follows:
+Neural representations of the perception of handwritten digits and visual objects from a convolutional neural network compared to humans, Juhyeon Lee; Minyoung Jung; Niv Lustig; Jong-Hwan Lee, Dec 12, 2022, Human Brain Mapping, Accepted
+
 ## Sample data:
 Please download the sample data from this link:
 - [Sample_Data.zip](http://bspl.korea.ac.kr/Research_data/digitobject/Sample_data.zip)
